@@ -75,3 +75,42 @@
 			}
 	 	]
 }*
+
+{
+	 "lastname" :"Ducauze",
+	 "firstname" :"Charles",
+	 "photo" :"/images/profil/charles.jpg",
+	 "desc " :"IT Engineer & Airplane pilot",
+	 "email" :"cducauze@stevens.edu",
+	 "adress" :"210 Hudson Street, Apt #2",
+	 "town" :"Hoboken, NJ",
+	 "phone" :"+1 (646) 504-6265",
+	 "urlPerso": "",
+	 "socials" : 
+		[
+			{
+				"name":"facebook",
+				"id":"charles.ducauze"
+			},
+			{
+				"name":"twitter",
+				"id":"charlesducauze"
+			},
+			{
+				"name":"youtube",
+				"id":"lithium69"
+			},
+			{
+				"name":"google",
+				"id":"114618627062494478747"
+			},
+			{
+				"name":"linkedin",
+				"id":"charlesducauze"
+			},
+			{
+				"name":"github",
+				"id" : "lithium42"
+			}
+	 	]
+}*
